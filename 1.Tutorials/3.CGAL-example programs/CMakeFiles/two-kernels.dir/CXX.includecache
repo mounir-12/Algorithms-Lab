@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/two-kernels.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+iostream
+-
+stdexcept
+-
+

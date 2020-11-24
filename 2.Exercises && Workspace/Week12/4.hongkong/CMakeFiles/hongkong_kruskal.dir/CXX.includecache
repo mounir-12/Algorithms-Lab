@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/hongkong_kruskal.cpp
+iostream
+-
+vector
+-
+set
+-
+unordered_map
+-
+algorithm
+-
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+boost/pending/disjoint_sets.hpp
+-
+boost/graph/adjacency_list.hpp
+-
+boost/graph/kruskal_min_spanning_tree.hpp
+-
+

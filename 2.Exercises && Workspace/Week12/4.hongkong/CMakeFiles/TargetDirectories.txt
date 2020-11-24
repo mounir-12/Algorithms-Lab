@@ -1,0 +1,7 @@
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/rebuild_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/hongkong_kruskal_1st_3_tests.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/hongkong_1st_3_tests.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/edit_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/hongkong_combined_sols.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/hongkong_combined_sols_all_tests.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week12/4.hongkong/CMakeFiles/hongkong.dir

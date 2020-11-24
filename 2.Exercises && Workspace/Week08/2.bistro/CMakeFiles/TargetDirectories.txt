@@ -1,0 +1,3 @@
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week08/2.bistro/CMakeFiles/rebuild_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week08/2.bistro/CMakeFiles/edit_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week08/2.bistro/CMakeFiles/bistro.dir

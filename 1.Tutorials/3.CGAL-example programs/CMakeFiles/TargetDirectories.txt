@@ -1,0 +1,7 @@
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/edit_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/rebuild_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/hello-exact.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/hello.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/intersect.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/two-kernels.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/3.CGAL-example programs/CMakeFiles/miniball.dir

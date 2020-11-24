@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week13/3.clues/clues_master.cpp
+iostream
+-
+vector
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Triangulation_data_structure_2.h
+-
+CGAL/Triangulation_vertex_base_with_info_2.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+

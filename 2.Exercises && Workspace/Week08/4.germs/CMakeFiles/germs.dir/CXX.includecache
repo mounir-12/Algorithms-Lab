@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week08/4.germs/germs.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+

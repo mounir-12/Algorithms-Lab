@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/10.3-fold-problems/3.snakes_strike_back/snakes_strike_back.cpp
+iostream
+-
+vector
+-
+set
+-
+map
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+boost/graph/adjacency_list.hpp
+-
+boost/graph/dijkstra_shortest_paths.hpp
+-
+

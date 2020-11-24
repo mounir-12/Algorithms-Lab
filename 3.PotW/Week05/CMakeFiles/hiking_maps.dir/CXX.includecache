@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/3.PotW/Week05/hiking_maps.cpp
+iostream
+-
+vector
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+

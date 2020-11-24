@@ -1,0 +1,3 @@
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/11.3-fold-problems/use_them_all/CMakeFiles/edit_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/11.3-fold-problems/use_them_all/CMakeFiles/rebuild_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/1.Tutorials/11.3-fold-problems/use_them_all/CMakeFiles/use_them_all.dir

@@ -1,0 +1,3 @@
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/3.PotW/Week13 (Test Exam)/CMakeFiles/edit_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/3.PotW/Week13 (Test Exam)/CMakeFiles/rebuild_cache.dir
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/3.PotW/Week13 (Test Exam)/CMakeFiles/worldcup.dir

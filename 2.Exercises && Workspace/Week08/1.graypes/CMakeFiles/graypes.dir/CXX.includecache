@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ubuntu/Data/1ère année/1st semester/Algorithms Lab/2.Exercises && Workspace/Week08/1.graypes/graypes.cpp
+iostream
+-
+vector
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Exact_predicates_exact_constructions_kernel_with_sqrt.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+
